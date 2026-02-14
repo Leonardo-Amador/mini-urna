@@ -1,0 +1,6 @@
+keys/private.pem
+
+data/hashes.json
+data/hashes.sig
+
+.DS_Store
